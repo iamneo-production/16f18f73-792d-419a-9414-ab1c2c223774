@@ -1,0 +1,14 @@
+.containerticket{
+  box-shadow: 5px 5px 10px 5px black;
+  height: 600px;
+  width: 800px;
+  margin-top: -200px;
+  margin-left: 400px;
+  padding-left: 15px;
+  padding-bottom: 25px;
+  background-image: url('https://res.cloudinary.com/dvyby9jur/image/upload/v1689262348/accept_wbuda8.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  /* opacity: 0.5; */
+}
