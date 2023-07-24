@@ -1,0 +1,86 @@
+.section {
+  padding: 100px 0;
+  position: relative;
+}
+
+
+
+.about-text h3 {
+font-size: 45px;
+font-weight: 700;
+/* margin: 0 0 6px; */
+}
+ 
+.about-text h3 {
+  font-size: 35px;
+}
+
+.about-text h6 {
+font-weight: 600;
+margin-bottom: 15px;
+}
+
+.about-text h6 {
+  font-size: 18px;
+}
+
+.about-text p {
+font-size: 18px;
+max-width: 450px;
+}
+
+
+.about-list {
+padding-top: 10px;
+}
+
+.about-list label {
+color: #20247b;
+font-weight: 600;
+width: 88px;
+margin: 0;
+position: relative;
+}
+
+.about-list p {
+margin: 0;
+font-size: 15px;
+}
+
+
+.about-avatar {
+  margin-top: 30px;
+}
+
+
+.about-section .counter {
+padding: 22px 20px;
+background: #ffffff;
+border-radius: 10px;
+}
+.about-section .counter .count-data {
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.about-section .counter .count {
+font-weight: 700;
+color: #20247b;
+margin: 0 0 5px;
+}
+.about-section .counter p {
+font-weight: 600;
+margin: 0;
+}
+
+.theme-color {
+  color: #fc5356;
+}
+.dark-color {
+  color: #20247b;
+}
+.counter{
+  margin-top: 100px;
+}
+.container{
+  margin-top: 160px;
+}
